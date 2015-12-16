@@ -19,7 +19,6 @@
                 <a href="#" id="bottone5">5</a>
                 <p id="stato">&nbsp;</p>
             </p>
-            <h5>Test. E comunque Michele non sa usare Linux</h5>
         </div>
         <script type="text/javascript" src="js/azioni.js"></script>
     </body>
