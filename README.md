@@ -1,3 +1,3 @@
 # AATDemoWithArduino
 
-To do:  add documentation
+To do:  add project documentation
